@@ -25,7 +25,6 @@ Click here to launch the game in your browser:
 ## ✨ Features  
 - Smooth sprite movement and animations  
 - Real-time collision detection  
-- Score counter and “Game Over” screen  
 
 ---
 
@@ -41,7 +40,7 @@ Click here to launch the game in your browser:
 ---
 
 ## 🏆 About This Project  
-- **Role:** Lead developer (solo lead)  
+- **Role:** Lead developer 
 - **Context:** University assignment to demonstrate application logic in JavaScript  
 - **Highlights:**  
   - End-to-end game loop implementation    
